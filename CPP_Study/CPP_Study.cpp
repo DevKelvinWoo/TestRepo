@@ -24,6 +24,6 @@ int main()
 	deque<int> TestDeque2 = { 6, 7, 8, 9, 10 };
 	map<int, float> TestMap = { {1, 1.5f}, {2, 2.5f}, {3, 3.5f} };
 	set<int> TestSet = { 1, 2, 3, 4, 5 };
-	
+	//Test
 	stable_partition(TestList1.begin(), TestList1.end(), MakeTwice);
 }
